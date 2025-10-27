@@ -1,8 +1,10 @@
-# CityGPT-Travel: Benchmarking Knowledge-Enriched LLM Agents for Urban Travel Planning
+# AgentTravel: Knowledge-Augmented LLM Agent Framework for Urban Travel Planning
 
-:triangular_flag_on_post: This is the repo of our paper summited to **CIKM  Resource Track 2025**.
+:triangular_flag_on_post: This is the repo of our paper summited to **NeurIPS 2025 Workshop NORA**.
 
-<img src="./fig/overview.png" style="zoom:20%;" >
+<p align="center">
+  <img src="./fig/overview.png" width="600">
+</p>
 
 ## 🛠️ Requirements
 
