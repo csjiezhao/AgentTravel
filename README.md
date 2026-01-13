@@ -22,7 +22,7 @@ pip install vllm
 
 ## 📜 Quick Start
 
-1. Download the `database`  we processed and packaged in [Google Drive](), then Unzip to the root directory of this project.
+1. Download the `database`  we processed and packaged in [Google Drive](https://drive.google.com/file/d/1D8B5fyOd9QQZAjhF8IoAbZsZp7VRIlgC/view?usp=drive_link), then Unzip to the root directory of this project.
 
 2. Prepare **CityGPT-T**
    ```bash
